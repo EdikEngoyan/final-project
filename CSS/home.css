@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Sen&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.bg_img {
+    min-height: 100vh;
+    background-image: url(../Imghome/home/glv_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.content {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: absolute;
+    bottom: 23%;
+}
+
+.content .par {
+    font-family: 'Sen';
+    padding-left: 145px;
+    margin-top: 26px;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+}
+
+.content h1 {
+    font-family: 'Sen';
+    font-size: 50px;
+    letter-spacing: 2px;
+    margin-left: 141px;
+}
+
+.content .cn {
+    width: 177px;
+    height: 58px;
+    background: #FFD050;
+    border: none;
+    margin-top: 30px;
+    margin-left: 145px;
+    font-family: 'Sen';
+    font-weight: 900;
+    font-size: 15px;
+    color: black;
+    border-radius: 3px;
+}
+
+span {
+    color: #FFD050;
+}
+
+.posted{
+  margin-left: 145px;
+  letter-spacing: 4px;
+}
+
+.h6_james {
+    margin-left: 145px;
+    margin-top: 28px;
+    font-size: 16px;
+}
+
+
+.one_section {
+    width: 100%;
+    height: 948px;
+}
+
+.child__3 {
+    font-family: 'Sen';
+    font-weight: 700;
+    font-size: 36px;
+    margin: 113px;
+}
+
+.img__whitehome {
+    margin-left: 5rem;
+    margin-bottom: 27px;
+}
+
+.doe__blue {
+    color: blue;
+}
+
+.content__2 {
+    margin-left: 79px;
+    font-family: 'Sen';
+}
+
+.h6_james_2 {
+    margin-bottom: 19px;
+}
+
+.lorem__text {
+    margin-bottom: 27px;
+}
+
+.content__2 .cn__2 {
+    width: 177px;
+    height: 58px;
+    background: #FFD050;
+    border: none;
+    margin-top: 30px;
+    font-family: 'Sen';
+    font-weight: 900;
+    font-size: 15px;
+    color: black;
+    border-radius: 3px;
+}
+
+.all_posts {
+    float: right;
+    font-family: 'Sen';
+}
+
+h3 {
+    margin-right: 35rem;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 1rem;
+}
+
+h4 {
+    padding-left: 91rem;
+    margin-top: 1rem;
+    font-size: 16px;
+    position: absolute;
+    font-weight: 400;
+    color: blue;
+}
+
+
+.child__div {
+    margin: 10rem 57rem;
+    position: absolute;
+    width: 146px;
+    font-family: 'Sen';
+}
+
+.child__span {
+    color: blue;
+}
+
+.child__p {
+    font-family: 'Sen';
+    font-size: 24px;
+    font-weight: 700;
+    margin: 11rem 57rem;
+    position: absolute;
+    width: 325px;
+}
+
+
+.child__div__2 {
+    margin: 20rem 57rem;
+    position: absolute;
+    width: 625px;
+    height: 146px;
+    font-family: 'Sen';
+    background-color: #FBF6EA;
+}
+
+.child__span__2 {
+    color: blue;
+}
+
+.child__p__2 {
+    font-family: 'Sen';
+    font-size: 24px;
+    font-weight: 700;
+    margin: 21rem 57rem;
+    position: absolute;
+    width: 325px;
+}
+
+
+.child__div__3 {
+    margin: 32rem 57rem;
+    position: absolute;
+    width: 146px;
+    font-family: 'Sen';
+}
+
+.child__span__3 {
+    color: blue;
+}
+
+.child__p__3 {
+    font-family: 'Sen';
+    font-size: 24px;
+    font-weight: 700;
+    margin: 33rem 57rem;
+    position: absolute;
+    width: 325px;
+}
+
+.child__div__4 {
+    margin: 42rem 57rem;
+    position: absolute;
+    width: 146px;
+    font-family: 'Sen';
+}
+
+.child__span__4 {
+    color: blue;
+}
+
+.child__p__4 {
+    font-family: 'Sen';
+    font-size: 24px;
+    font-weight: 700;
+    margin: 43rem 57rem;
+    position: absolute;
+    width: 325px;
+}
+
+.glv_block_div {
+    border: 1px solid #c1c1c4;
+    width: 52rem;
+    height: 43rem;
+    padding: 2rem 0rem;
+    margin: 4rem 1rem;
+    box-shadow: 0px 0px 20px 2px;
+}
