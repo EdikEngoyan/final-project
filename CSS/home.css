@@ -233,7 +233,7 @@ h4 {
 
 .section__2 {
     width: 1440px;
-    height: 826px;
+    height: 650px;
 }
 
 .color__yellow {
@@ -255,12 +255,18 @@ h4 {
 }
 
 .bg__sery {
+    display: flex;
+    justify-content: space-between;
     background-color: #F4F0F8;
     position: absolute;
     width: 1440px;
     height: 500px;
     right: 4.4rem;
     top: 124.5rem;
+}
+
+.sery1, .sery2 {
+    width: 50%;
 }
 
 .us__2 {
@@ -282,7 +288,6 @@ h4 {
     margin-left: 87px;
 }
 
-
 .labore {
     font-size: 16px;
     font-weight: 400;
@@ -301,5 +306,4 @@ h4 {
     font-family: 'Sen';
     padding-left: 86px;
     padding-top: 12px;
-    position: absolute;
 }
