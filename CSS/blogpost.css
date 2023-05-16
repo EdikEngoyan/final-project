@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Sen&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.first {
+    margin-left: 10%;
+}
+
+.jonson {
+    font-family: "Sen";
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    color: #592EA9;
+}
+
+.s1 {
+    display: flex;
+    padding-top: 10%;
+    padding-left: 20%;
+}
+
+img {
+    margin-right: 10px;
+}
+
+.txt {
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 28px;
+    color: #6D6E76;
+}
+
+.h1 {
+    color: #232536;
+    font-family: 'Sen';
+    font-size: 40px;
+    font-weight: 1000;
+    letter-spacing: 2px;
+    padding-top: 2.5%;
+    padding-left: 20%;
+}
+
+.startup {
+    position: absolute;
+    margin-left: 27.5%;
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+}
+
+.startup img {
+    border-radius: 10px;
+}
+
+.startup p {
+    font-family: "Sen";
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    color: #232536;
+}
+
+.h1 p {
+    font-size: 10px;
+}
+
+.img {
+    margin-top: 7%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.texts {
+    margin-left: 7%;
+}
+
+.h2 {
+    color: #232536;
+    font-family: 'Sen';
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
+    padding-top: 2.5%;
+    padding-left: 20%;
+}
+
+.texts p {
+    font-family: "Inter";
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #6D6E76;
+    margin-left: 20%;
+}
+
+.texts ul {
+    margin-left: 20%;
+    font-family: "Sen";
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #161722;
+}
+
+.read {
+    margin: 5%;
+    margin-top: 9%;
+    font-family: "Sen";
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: black;
+}
+
+.child__div {
+    width: 146px;
+    font-family: 'Sen';
+    margin-top: 1%;
+}
+
+.child__span {
+    color: blue;
+}
+
+.child__p {
+    font-family: 'Sen';
+    font-size: 24px;
+    font-weight: 700;
+    width: 325px;
+}
+
+.lastposts {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lastposts .post {
+    padding-left: 80px;
+    margin-right: 10px;
+}
+
+hr {
+    width: 1420px;
+    height: 0px;
+    margin-left: 5%;
+    margin-top: 5%;
+    border: 1px solid #6D6E76;
+}
+
+.last {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.last h3 {
+    font-family: "Sen";
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.cn {
+    font-family: "Sen";
+    width: 140px;
+    height: 40px;
+    background: #FFD050;
+    border: none;
+    text-align: center;
+    font-family: 'Sen';
+    font-weight: 900;
+    font-size: 15px;
+    color: black;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.finish {
+    margin-top: 6%;
+}
+
+button a {
+    color: black;
+}
