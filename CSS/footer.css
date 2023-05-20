@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Sen&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter';
+}
+
+footer {
+    background: #232536;
+    height: 560px;
+    width: 100%;
+    font-size: 16px;
+}
+
+label.logo {
+    color: white;
+    line-height: 79px;
+    padding: 32px 89px;
+    position: absolute;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+footer ul {
+    float: right;
+    padding-top: 35px;
+    margin-right: 64px;
+    font-size: 16px;
+}
+
+footer ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+    font-size: 16px;
+}
+
+footer ul li a {
+    color: white;
+    padding: 7px 13px;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+a:hover {
+    background: #7c809b;
+    transition: .5s;
+}
+
+.checkbtn {
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    font-size: 16px;
+    display: none;
+}
+
+#check {
+    display: none;
+}
+
+
+.blue__bg {
+    background-color: #FFFFFF;
+    opacity: 0.05;
+    width: 1419px;
+    position: absolute;
+    height: 256px;
+    margin: 151px 90px;
+
+}
+
+
+.footer__finsih {
+    font-family: 'Sen';
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    position: absolute;
+    color: #FFFFFF;
+    margin-left: 164px;
+    margin-top: 218px;
+}
+
+.input {
+    background-color: #313342;
+    border: 1px solid #897e7e;
+    width: 323px;
+    height: 56px;
+    position: absolute;
+    margin-left: 52rem;
+    padding-left: 25px;
+    margin-top: 14rem;
+}
+
+.sub__button {
+    background-color: #FFD050;
+    color: #232536;
+    font-size: 19px;
+    line-height: 24px;
+    font-family: 'Sen';
+    font-weight: 700;
+    padding: 13px 45px;
+    position: absolute;
+    width: 179px;
+    border: none;
+    height: 56px;
+    margin: 14rem 74rem;
+}
+
+.sub__2 {
+    margin: 0rem 2rem;
+}
+
+.com__text {
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: 'Sen';
+    color: #FFFFFF;
+    margin-top: 28.9rem;
+    position: absolute;
+    margin-left: 6rem;
+}
+
+.footer__icon {
+    position: absolute;
+    margin: 25rem 88rem;
+    width: 107px;
+    font-size: 89px;
+}
+
+.img__class {
+    position: absolute;
+    margin: 71px 1px;
+}
