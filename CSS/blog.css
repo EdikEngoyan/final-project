@@ -8,7 +8,12 @@
     list-style: none;
     box-sizing: border-box;
 }
-
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; /* You can adjust this value to set the desired width of the container */
+    padding: 20px; /* Just for visualization */
+  }
 .content {
     font-family: "Sen";
     width: 100%;
@@ -37,6 +42,7 @@
 .text {
     padding-top: 6%;
     padding-bottom: 6%;
+    padding-left: 3%;
 }
 
 .content .cn {
@@ -86,7 +92,6 @@ span {
 }
 
 h1 {
-    padding: 4%;
     font-size: 48px;
     font-weight: 700;
     color: #232536;
@@ -95,17 +100,15 @@ h1 {
 hr {
     color: #6D6E76;
     position: absolute;
-    width: 95.5%;
+    width: 85%;
     height: 0px;
-    left: 64px;
-    top: 805px;
+    top: 770px;
     opacity: 0.32;
     border: 1px solid #6D6E76;
 }
 
 .post1 {
-    padding-left: 100px;
-    padding-top: 50px;
+    padding-top: 70px;
 }
 
 .post1 {
@@ -159,17 +162,9 @@ hr {
     color: #232536;
 }
 
-.cat {
-    font-family: "Sen";
-    padding: 4%;
-    font-size: 35px;
-    font-weight: 700;
-    color: #232536;
-}
-
 .block {
+    margin-top: 3.5rem;
     display: inline-block;
-    margin-left: 4%;
     width: 20%;
     height: 228px;
     border: 2px solid Black;
@@ -259,14 +254,14 @@ label.logo {
 footer ul {
     float: right;
     padding-top: 35px;
-    margin-right: 64px;
+    margin-right: 134px;
     font-size: 16px;
 }
 
 .logoo {
     color: white;
     line-height: 79px;
-    padding: 32px 89px;
+    padding: 32px 144px;
     position: absolute;
     font-size: 24px;
     font-weight: bold;
@@ -313,7 +308,7 @@ a:hover {
     width: 1419px;
     position: absolute;
     height: 256px;
-    margin: 151px 90px;
+    margin: 141px 143px;
 
 }
 
@@ -325,7 +320,7 @@ a:hover {
     line-height: 48px;
     position: absolute;
     color: #FFFFFF;
-    margin-left: 164px;
+    margin-left: 202px;
     margin-top: 218px;
 }
 
@@ -335,7 +330,7 @@ a:hover {
     width: 323px;
     height: 56px;
     position: absolute;
-    margin-left: 52rem;
+    margin-left: 55rem;
     padding-left: 25px;
     margin-top: 14rem;
 }
@@ -352,7 +347,7 @@ a:hover {
     width: 179px;
     border: none;
     height: 56px;
-    margin: 14rem 74rem;
+    margin: 14rem 76.8rem;
 }
 
 .sub__2 {
@@ -365,9 +360,9 @@ a:hover {
     font-weight: 400;
     font-family: 'Sen';
     color: #FFFFFF;
-    margin-top: 24.4rem;
+    margin-top: 23.4rem;
     position: absolute;
-    margin-left: 6rem;
+    margin-left: 9rem;
 }
 
 .com__textt {
@@ -376,14 +371,14 @@ a:hover {
     font-weight: 400;
     font-family: 'Sen';
     color: #FFFFFF;
-    margin-top: 22.9rem;
+    margin-top: 24.9rem;
     position: absolute;
-    margin-left: 6rem;
+    margin-left: 9rem;
 }
 
 .footer__icon {
     position: absolute;
-    margin: 25rem 88rem;
+    margin: 25rem 91rem;
     width: 107px;
     font-size: 89px;
 }
