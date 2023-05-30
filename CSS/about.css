@@ -271,7 +271,7 @@ h4,
     flex-wrap: wrap;
 }
 .card1 h3, .cardf h3 {
-    margin-top: 7.5%;
+    margin-top: 60%;
     font-family: 'Sen';
     font-style: normal;
     font-weight: 700;
@@ -318,9 +318,8 @@ h4,
   .logos img:last-child {
     margin-right: 0;
   }
-.logo{
-    margin-top: 5%;
-    margin-left: 28%;
+.logoo{
+margin-left: -1%;
 }
 .cn {
     font-family: "Sen";
