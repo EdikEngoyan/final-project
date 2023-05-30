@@ -165,7 +165,7 @@
 
 .child1 h2,
 h4,
-p {
+.ch {
     margin-top: 3%;
 }
 
@@ -226,7 +226,7 @@ p {
 
 .child2 h2,
 h4,
-p {
+.ch {
     margin-top: 3%;
 }
 
@@ -255,6 +255,7 @@ p {
 
 .heading2 {
     margin-top: 8%;
+    margin-bottom: 8%;
     text-align: center;
     font-family: 'Sen';
     font-style: normal;
@@ -263,5 +264,94 @@ p {
     line-height: 48px;
     letter-spacing: -2px;
     color: #232536;
+}
+.cards1{
+    margin-top: 3%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card1 h3, .cardf h3 {
+    margin-top: 7.5%;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+    line-height: 40px;
+    letter-spacing: -1px;
+    color: #232536;
+}
+.card1{
+    margin-left: 5%;
+}
+.card1, .cardf {
+    align-items: center;
+    width: 296px;
+    height: 325px;
+    background: #f3f3f3;
+    border-radius: 10px;
+}
+.card1 .desc, .cardf .desc {
+    margin-top: 1.5%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    line-height: 20px;
+    color: #6D6E76;
+}
 
+
+.logos{
+    margin-top: 12%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+  
+  .logos img {
+    margin: 0 5% 0 0; 
+  }
+  
+  .logos img:last-child {
+    margin-right: 0;
+  }
+.logo{
+    margin-top: 5%;
+    margin-left: 28%;
+}
+.cn {
+    font-family: "Sen";
+    width: 140px;
+    height: 40px;
+    background: #FFD050;
+    border: none;
+    text-align: center;
+    font-family: 'Sen';
+    font-weight: 900;
+    font-size: 15px;
+    color: black;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.finish {
+    margin-top: 6%;
+}
+
+button a {
+    color: black;
+}
+.last {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.last h3 {
+    font-family: "Sen";
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
 }
