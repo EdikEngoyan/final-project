@@ -7,11 +7,13 @@
     list-style: none;
     box-sizing: border-box;
 }
+
 .container {
     margin: auto;
-    width: 100%; 
+    width: 100%;
     padding: 20px;
-  }
+}
+
 .first {
     margin-left: 10%;
 }
@@ -30,7 +32,6 @@
     padding-top: 10%;
     padding-left: 20%;
 }
-
 
 .txt {
     font-family: "Inter";
@@ -82,7 +83,6 @@
     height: 100%;
 }
 
-
 .h2 {
     color: #232536;
     font-family: 'Sen';
@@ -90,7 +90,7 @@
     font-weight: 700;
     line-height: 48px;
     padding-top: 2.5%;
-    padding-left: 20%;
+    padding-left: 25%;
 }
 
 .texts p {
@@ -99,11 +99,11 @@
     font-size: 16px;
     line-height: 28px;
     color: #6D6E76;
-    margin-left: 20%;
+    margin-left:25%;
 }
 
 .texts ul {
-    margin-left: 20%;
+    margin-left: 25%;
     font-family: "Sen";
     font-weight: 700;
     font-size: 20px;
@@ -142,6 +142,7 @@
 .lastposts {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .lastposts .post {
@@ -152,6 +153,8 @@ hr {
     width: 97%;
     height: 0px;
     margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
     border: 1px solid #6D6E76;
 }
 
@@ -189,3 +192,45 @@ hr {
 button a {
     color: black;
 }
+
+/* Media Queries */
+@media screen and (min-width: 1920px) {
+    .container {
+        width: 90%;
+    }
+
+    .h1,
+    .h2 {
+        padding-left: 15%;
+    }
+
+    .startup {
+        margin-left: 25%;
+    }
+
+    .s1 {
+
+        display: flex;
+        justify-content: center;
+    }
+    .texts p,
+    .texts ul {
+        margin-left: 10%;
+    }
+
+    .lastposts {
+        justify-content: space-between;
+    }
+
+    hr {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1366px) {
+    .container {
+        width: 95%;
+    }
+}
+
+/* Add more media queries for other resolutions if needed */

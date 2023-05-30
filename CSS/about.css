@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Sen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Inter:wght@300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.container {
+    font-family: 'Sen';
+    margin: auto;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.absolute h4 {
+    padding-left: 7%;
+    padding-top: 10%;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #232536;
+}
+
+.absolute h1 {
+    padding-left: 7%;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    letter-spacing: -2px;
+    color: #232536;
+}
+
+.absolute {
+    margin-left: 7.5%;
+    position: absolute;
+    margin-top: 50px;
+    width: 500px;
+    height: 330px;
+    background-color: white;
+}
+
+.start p {
+    margin-left: 60%;
+    margin-top: 134px;
+    padding-bottom: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #4C4C4C;
+}
+
+.start {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.i1 {
+    width: 1398px;
+    height: 485px;
+}
+
+.imgg {
+    position: absolute;
+    margin-top: 17.87%;
+
+}
+
+.shapes {
+    margin-left: 8rem;
+}
+
+.shape1 {
+    position: absolute;
+    width: 310.48px;
+    height: 23px;
+    top: 52.4rem;
+
+    background: #592EA9;
+}
+
+.shape2 {
+    position: absolute;
+    width: 770px;
+    height: 23px;
+    left: 465.91px;
+    top: 52.4rem;
+    background: #FFD050;
+}
+
+.texts {
+    background: #F4F0F8;
+    width: 1398px;
+    height: 420px;
+    margin-top: -1.2%;
+}
+
+.t1 {
+    padding-left: 10%;
+    padding-top: 8%;
+}
+
+.t1 h4 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #232536;
+}
+
+.t1 h3 {
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: -1px;
+    color: #232536;
+}
+
+.t1 p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #6D6E76;
+}
+
+.texts {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Child 1 */
+.child1 {
+    margin-top: 7.5%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.child1 h2 {
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -2px;
+    color: #232536;
+}
+
+.child1 h2,
+h4,
+p {
+    margin-top: 3%;
+}
+
+.child1 h4 {
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    color: #232536;
+}
+
+.child1 p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #232536;
+}
+
+.child1 .img {
+    padding-left: 10.5%;
+}
+
+.child1 .text {
+    padding-top: 5%;
+}
+
+.shapee {
+    left: 47%;
+    margin-top: 8rem;
+    position: absolute;
+}
+
+/* Child 2 */
+.child2 {
+    margin-top: 4.5%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shapee1 {
+    position: absolute;
+    margin-top: 29%;
+    margin-left: 7%;
+}
+
+.child2 h2 {
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -2px;
+    color: #232536;
+}
+
+.child2 h2,
+h4,
+p {
+    margin-top: 3%;
+}
+
+.child2 h4 {
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    color: #232536;
+}
+
+.child2 p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #232536;
+}
+
+.child2 .text {
+    padding-top: 5%;
+    margin-left: 10.5%;
+}
+
+.heading2 {
+    margin-top: 8%;
+    text-align: center;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -2px;
+    color: #232536;
+
+}
