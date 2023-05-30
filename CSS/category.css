@@ -1,10 +1,20 @@
 .cat {
     font-family: "Sen";
     padding-top: 4%;
-    font-size: 35px;
+    font-size: 26px;
     font-weight: 700;
     color: #232536;
 }
+
+.catt {
+    font-family: "Sen";
+    padding-top: 4%;
+    font-size: 26px;
+    font-weight: 700;
+    color: #232536;
+    margin: 2rem 8rem;
+}
+
 
 .cat1 {
     text-align: center;
@@ -17,7 +27,7 @@
 
 .block {
     display: inline-block;
-    width: 20%;
+    width: 17.5%;
     height: 228px;
     border: 2px solid Black;
     border-color: #b7b8be;
@@ -32,15 +42,6 @@
     height: 60px;
 }
 
-/* .block_text {
-    margin-left: 5.5%;
-} */
-
-/* .block_text2 {
-    font-weight: 400;
-    font-size: 16px;
-    padding-left: 40px;
-} */
 
 .block2 {
     border: none;

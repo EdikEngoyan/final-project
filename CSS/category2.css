@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Sen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Inter:wght@300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.color__blur {
+    background-color: #F4F0F8;
+    width: 100%;
+    height: 348px;
+}
+
+.policy {
+    font-family: 'Sen';
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    text-align: center;
+    padding-top: 82px;
+}
+
+.last__text {
+    color: #232536;
+    line-height: 28px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Inter';
+    text-align: center;
+    margin-top: 16px;
+}
+
+.arrow__blog {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 32px;
+    color: #232536;
+}
+
+.container {
+    margin-right: 81px;
+    margin-left: 81px;
+}
+
+
+.posts {
+    font-family: "Sen";
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+    margin: 3rem 7rem;
+    color: #232536;
+}
+
+hr {
+    color: #6D6E76;
+    position: absolute;
+    width: 85%;
+    height: 0px;
+    top: 809px;
+    margin: -5rem 7rem;
+    opacity: 0.32;
+    border: 1px solid #6D6E76;
+}
+
+.block-container {
+    margin-left: 7.2rem;
+}
+
+.post1 {
+    padding-top: 70px;
+    overflow: hidden;
+}
+
+.post1 img {
+    float: left;
+    margin-right: 20px;
+}
+
+.post1 h5,
+.post1 h2,
+.post1 p {
+    overflow: hidden;
+    padding-top: 19px;
+}
+
+.par__3 {
+    margin-top: -26px;
+}
+
+.p1t {
+    padding-top: 11px;
+}
+
+.p1 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #592EA9;
+}
+
+.p1h {
+    font-size: 36px;
+    font-weight: 700;
+    padding-bottom: 22px;
+}
+
+.category__2 {
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 80px;
+    line-height: 48px;
+    font-family: 'Sen';
+    margin-right: 85px;
+    float: right;
+}
+
+.category__glv {
+    float: right;
+}
+
+.block__div__1 {
+    width: 239px;
+    height: 85px;
+    background-color: #FFD050;
+    margin-top: 150px;
+}
+
+.radius {
+    border-radius: 5px;
+    margin: -3.1rem 1rem;
+}
+
+.start__up {
+    font-family: 'Sen';
+    font-weight: 700;
+    font-size: 26px;
+    margin-left: 80px;
+    line-height: 40px;
+}
+
+a {
+    color: Black;
+}
+
+.block__div__2 {
+    width: 239px;
+    height: 85px;
+    border: 2px solid #C1C1C3;
+    margin-top: 21px;
+}
+
+.border__radius__block {
+    float: right;
+}
+
+.all__tags__2 {
+    font-family: 'Sen';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    margin-top: 45px;
+    margin-right: 106px;
+}
+
+.bussiness__block {
+    font-family: 'Sen';
+    font-size: 14px;
+    line-height: 32px;
+    color: grey;
+    border-radius: 90px;
+    width: 100px;
+    height: 45px;
+    margin-top: 15px;
+    border: 2px solid grey;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.glv__radius__block {
+    margin-top: 36px;
+}
+
+.bussiness__block__2 {
+    font-family: 'Sen';
+    font-size: 14px;
+    line-height: 32px;
+    color: grey;
+    border-radius: 90px;
+    width: 83px;
+    height: 45px;
+    margin-top: 15px;
+    border: 2px solid grey;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.bussiness__block__3 {
+    font-family: 'Sen';
+    font-size: 14px;
+    line-height: 32px;
+    color: grey;
+    border-radius: 90px;
+    width: 142px;
+    height: 45px;
+    margin-top: 15px;
+    border: 2px solid grey;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.glv__radius__block__2 {
+    margin-top: 114px;
+    margin-left: 130px;
+    position: absolute;
+}
+
+.bussiness__block__4 {
+    font-family: 'Sen';
+    font-size: 14px;
+    line-height: 32px;
+    color: grey;
+    border-radius: 137px;
+    width: 135px;
+    margin-left: -23px;
+    height: 45px;
+    margin-top: 15px;
+    border: 2px solid grey;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.bussiness__block__5 {
+    font-family: 'Sen';
+    font-size: 14px;
+    line-height: 32px;
+    color: grey;
+    border-radius: 137px;
+    width: 152px;
+    margin-left: -37px;
+    height: 45px;
+    margin-top: 15px;
+    border: 2px solid grey;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.bussiness__block__6 {
+    font-family: 'Sen';
+    font-size: 14px;
+    line-height: 32px;
+    color: grey;
+    border-radius: 137px;
+    width: 95px;
+    margin-left: 19px;
+    height: 45px;
+    margin-top: 15px;
+    border: 2px solid grey;
+    text-align: center;
+    padding-top: 4px;
+}

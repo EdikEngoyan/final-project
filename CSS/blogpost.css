@@ -8,9 +8,8 @@
     box-sizing: border-box;
 }
 .container {
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%; 
+    margin: auto;
+    width: 100%; 
     padding: 20px;
   }
 .first {
@@ -53,7 +52,7 @@
 
 .startup {
     position: absolute;
-    margin-left: 21.5%;
+    margin-left: 27.5%;
     margin-top: 2%;
     display: flex;
     align-items: center;
@@ -118,6 +117,7 @@
     font-family: "Sen";
     font-weight: 700;
     font-size: 36px;
+    margin: 3rem 2rem;
     line-height: 48px;
     color: black;
 }
@@ -145,11 +145,11 @@
 }
 
 .lastposts .post {
-    margin-right: 38.5px;
+    margin-right: 31.3px;
 }
 
 hr {
-    width: 1420px;
+    width: 97%;
     height: 0px;
     margin-top: 5%;
     border: 1px solid #6D6E76;

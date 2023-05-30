@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Sen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Inter:wght@300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.container {
+    margin-left: 208px;
+    margin-right: 208px;
+}
+
+.bg__div__block {
+    background-color: #F4F0F8;
+    width: 100%;
+    height: 550px;
+}
+
+.blog__3 {
+    font-family: 'Sen';
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 49px;
+}
+
+.sed {
+    font-family: 'Sen';
+    font-weight: 400;
+    font-size: 13.97px;
+    line-height: 28px;
+    color: #6D6E76;
+}
+
+.text_div {
+    padding: 2.5rem 18rem;
+    position: absolute;
+    margin-top: 128px;
+}
+
+.margin__top {
+    margin-top: 128px;
+}
+
+.yellow__block__1 {
+    background-color: #FFD050;
+    width: 813px;
+    height: 24px;
+}
+
+.purple__block__2 {
+    background-color: #592EA9;
+    width: 271px;
+    height: 24px;
+    margin: -24px 41.3rem;
+}
+
+.block__color__line {
+    margin-top: 6.3rem;
+}
+
+.posts {
+    font-family: "Sen";
+}
+
+.post1 {
+    padding-top: 70px;
+    overflow: hidden;
+}
+
+
+.p1h {
+    font-size: 29.7px;
+    font-weight: 700;
+    padding-bottom: 22px;
+}
+
+.p1t {
+    padding-top: 70px;
+}
+
+.post1 h5,
+.post1 h2,
+.post1 p {
+    overflow: hidden;
+    padding-top: 14px;
+}
+
+.post1 img {
+    float: left;
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #232536;
+}
+
+.content .par {
+    margin-top: 1.5rem;
+    line-height: 30px;
+}
+
+.par__2 {
+    font-size: 14.7px;
+    margin-top: -13px;
+}
+.posted {
+    color: #592EA9;
+}
+
+.my__posts {
+    margin-top: 7rem;
+    font-size: 40px;
+}

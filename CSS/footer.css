@@ -23,14 +23,14 @@ label.logo {
 footer ul {
     float: right;
     padding-top: 35px;
-    margin-right: 134px;
+    margin-right: 88px;
     font-size: 16px;
 }
 
 .logoo {
     color: white;
     line-height: 79px;
-    padding: 32px 144px;
+    padding: 30px 99px;
     position: absolute;
     font-size: 24px;
     font-weight: bold;
@@ -74,33 +74,33 @@ a:hover {
 .blue__bg {
     background-color: #FFFFFF;
     opacity: 0.05;
-    width: 1419px;
+    width: 85%;
     position: absolute;
     height: 256px;
-    margin: 141px 143px;
+    margin: 141px 97px;
 
 }
 
 
 .footer__finsih {
     font-family: 'Sen';
-    font-size: 36px;
+    font-size: 31px;
     font-weight: 700;
     line-height: 48px;
     position: absolute;
     color: #FFFFFF;
-    margin-left: 202px;
+    margin-left: 125px;
     margin-top: 218px;
 }
 
 .input {
     background-color: #313342;
     border: 1px solid #897e7e;
-    width: 323px;
-    height: 56px;
+    width: 285px;
+    height: 52px;
     position: absolute;
-    margin-left: 55rem;
-    padding-left: 25px;
+    margin-left: 41rem;
+    padding-left: 23px;
     margin-top: 14rem;
 }
 
@@ -115,8 +115,8 @@ a:hover {
     position: absolute;
     width: 179px;
     border: none;
-    height: 56px;
-    margin: 14rem 76.8rem;
+    height: 52px;
+    margin: 14rem 59.8rem;
 }
 
 .sub__2 {
@@ -129,9 +129,9 @@ a:hover {
     font-weight: 400;
     font-family: 'Sen';
     color: #FFFFFF;
-    margin-top: 23.4rem;
+    margin-top: 28.4rem;
     position: absolute;
-    margin-left: 9rem;
+    margin-left: 6rem;
 }
 
 .com__textt {
@@ -140,14 +140,14 @@ a:hover {
     font-weight: 400;
     font-family: 'Sen';
     color: #FFFFFF;
-    margin-top: 24.9rem;
+    margin-top: 29.9rem;
     position: absolute;
-    margin-left: 9rem;
+    margin-left: 6rem;
 }
 
 .footer__icon {
     position: absolute;
-    margin: 25rem 91rem;
+    margin: 25rem 71rem;
     width: 107px;
     font-size: 89px;
 }

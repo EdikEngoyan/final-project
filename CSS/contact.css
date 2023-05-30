@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Sen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Inter:wght@300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.us {
+    font-family: 'Sen';
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: 112px;
+    line-height: 20px;
+    text-align: center;
+    color: #232536;
+}
+
+.lets {
+    font-family: 'Sen';
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+    line-height: 64px;
+    margin-top: 12px;
+}
+
+.amet {
+    font-family: 'Sen';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    color: #6D6E76;
+    margin-top: 24px;
+}
+
+.purple__bg {
+    background-color: #592EA9;
+    width: 768px;
+    height: 240px;
+    margin-left: 18.5rem;
+    margin-top: 64px;
+}
+
+.bg {
+    font-family: 'Sen';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #ffff;
+}
+
+.hrr {
+    width: 294px;
+    color: #ffff;
+}
+
+.week {
+    font-family: 'Sen';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    color: #ffff;
+}
+
+.day {
+    font-family: 'Sen';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    color: #ffff;
+}
+
+.team__text {
+    font-family: 'Sen';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.block__1 {
+    padding: 58px 64px;
+}
+
+.bg {
+    margin-bottom: 1rem;
+}
+
+.hrr {
+    margin-bottom: 1rem;
+}
+
+.block__2 {
+    margin: 3.6rem 25rem;
+    position: absolute;
+}
+
+.bg {
+    margin-bottom: 1rem;
+}
+
+.hrr {
+    margin-bottom: 1rem;
+}
+
+.input__glv {
+    margin-left: 18.5rem;
+    font-family: 'Sen';
+}
+
+.input__1 {
+    width: 768px;
+    margin-top: 32px;
+    height: 60px;
+    padding-left: 25px;
+}
+
+.input__2 {
+    width: 768px;
+    margin-top: 18px;
+    height: 60px;
+    padding-left: 25px;
+}
+
+.input__3 {
+    width: 768px;
+    margin-top: 18px;
+    height: 60px;
+    padding-left: 25px;
+}
+
+.input__4 {
+    margin-top: 18px;
+    font-size: 17px;
+    padding-left: 24px;
+    padding-top: 16px;
+}
+
+.send {
+    background-color: #FFD050;
+    width: 768px;
+    height: 64px;
+    margin-top: 18px;
+    border: none;
+}
+
+.a__button {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    font-family: 'Sen';
+    color: #232536;
+}
